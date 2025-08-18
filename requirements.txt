@@ -7,3 +7,4 @@ bs4 # For parsing HTML and XML documents.
 arxiv # For accessing and processing documents from arXiv.
 pymupdf # For reading and processing PDF files.
 wikipedia # For loading documents from Wikipedia.
+langchain-text-splitters # For splitting text into manageable chunks.
