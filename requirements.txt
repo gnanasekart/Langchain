@@ -8,3 +8,22 @@ arxiv # For accessing and processing documents from arXiv.
 pymupdf # For reading and processing PDF files.
 wikipedia # For loading documents from Wikipedia.
 langchain-text-splitters # For splitting text into manageable chunks.
+langchain-openai # For integrating OpenAI's language models.
+chromadb # For using ChromaDB as a vector store.
+sentence_transformers # For generating embeddings using Sentence Transformers.
+langchain_huggingface # For integrating Hugging Face models with Langchain.
+faiss-cpu # For using FAISS as a vector store.
+langchain_chroma # For using Chroma as a vector store.
+duckdb # For using DuckDB as a vector store.
+pandas # For data manipulation and analysis.
+openai # For accessing OpenAI's API.
+langchain-groq # For using Groq as a vector store.
+duckduckgo_search==5.3.1b1 # For searching DuckDuckGo.
+mysql-connector-python # For connecting to MySQL databases.
+SQLAlchemy # For SQL database interactions.
+validators==0.28.1 # For validating URLs and other data.
+youtube_transcript_api # For fetching YouTube video transcripts.
+unstructured # For working with unstructured data.
+pytube # For downloading YouTube videos.
+numexpr # For fast numerical expression evaluation.
+huggingface_hub # For accessing models and datasets from Hugging Face.
