@@ -12,6 +12,7 @@ langchain-openai # For integrating OpenAI's language models.
 chromadb # For using ChromaDB as a vector store.
 sentence_transformers # For generating embeddings using Sentence Transformers.
 langchain_huggingface # For integrating Hugging Face models with Langchain.
+hf_xet # For using Hugging Face embeddings.
 faiss-cpu # For using FAISS as a vector store.
 langchain_chroma # For using Chroma as a vector store.
 duckdb # For using DuckDB as a vector store.
