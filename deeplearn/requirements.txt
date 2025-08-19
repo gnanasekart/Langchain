@@ -1,0 +1,8 @@
+langchain
+chromadb
+sentence-transformers
+tokenizers
+tokenizers
+python-dotenv
+rich
+gitpython
